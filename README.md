@@ -20,45 +20,26 @@
 ### 👨‍💻 About Me
 
 👋 Hi, I’m **Gielo Mar Bandoy**  
-🔧 I build practical web systems using **HTML, CSS, Bootstrap, jQuery, CodeIgniter4 (CI4), and MySQL** on **WAMP64**  
+🔧 I build practical web systems using **HTML, CSS, Bootstrap, jQuery, CodeIgniter4 (CI4), RESTful API, and MySQL** on **WAMP64**  
 🛠️ Focused on clean interfaces, secure database querying, and MVC architecture  
 📚 Currently learning more about efficient backend logic and real-world IoT integration using **ESP32**  
 ⚡ I like building solutions for local needs and improving systems in my free time  
 
 ---
 
-### 🛠 Programming Languages
+### 🖥️ Programming Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
 </p>
 
 ---
 
-### ⚙️ Tools & Frameworks
+### ⚙️ Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=Gmarxdev&color=blue)  
-  ![Gmarx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gmarxdev&show_icons=true&theme=tokyonight)
-
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudi
