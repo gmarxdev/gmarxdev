@@ -42,4 +42,54 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudi
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+</p>
+
+---
+
+### 🌐 My Web Development Stack
+
+**Frontend:**  
+- HTML, CSS, Bootstrap, jQuery  
+
+**Backend:**  
+- PHP (CodeIgniter 4)  
+- RESTful API  
+
+**Database:**  
+- MySQL  
+
+**Environment:**  
+- WAMP64  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+</p>
+
+---
+
+### 🤖 IoT Development
+
+- ESP32 Microcontroller  
+- Embedded C / MicroPython  
+- Arduino IDE  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=Gmarxdev&color=blue)  
+  ![Gmarx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gmarxdev&show_icons=true&theme=tokyonight)
+
+</div>
