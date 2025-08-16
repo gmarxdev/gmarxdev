@@ -73,7 +73,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://raw.githubusercontent.com/Gmarxdev/gmarxdev/main/esp32-logo.png" height="40" alt="ESP32 logo" />
+  <img src="https://raw.githubusercontent.com/gmarxdev/gmarxdev/main/esp32-logo.png" height="40" alt="ESP32 logo" />
+
 </p>
 
 
