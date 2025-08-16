@@ -23,7 +23,7 @@
 🔧 I build practical web systems using **HTML, CSS, Bootstrap, jQuery, CodeIgniter4 (CI4), and MySQL** on **WAMP64**  
 🛠️ Focused on clean interfaces, secure database querying, and MVC architecture  
 📚 Currently learning more about efficient backend logic and real-world IoT integration using **ESP32**  
-⚡ I like building solutions for local needs and improving systems in my free time
+⚡ I like building solutions for local needs and improving systems in my free time  
 
 ---
 
@@ -44,5 +44,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </p>
-![Gmarx's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=Gmarxdev&color=blue)  
+  ![Gmarx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gmarxdev&show_icons=true&theme=tokyonight)
+
+</div>
